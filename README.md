@@ -9,7 +9,7 @@ Copyrights are not reserved, so you can use freely.
 如要使用tensorflow框架，建议选择https://www.python.org/downloads/python3.9
 
 2) 版本管理工具git：
-http://git-scm.com/download/win，下载git工具，
+http://git-scm.com/download/win ，下载git工具，
 然后在dstDir建立repo，
 ~> git init;
 ~> git add <filename>;
